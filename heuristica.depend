@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1568379015 source:c:\users\fred\desktop\heuristica certo\heuristica\arquivos.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<climits>
+	<ctime>
+	"Util.h"
+	"Arquivos.h"
+
+1572022376 c:\users\fred\desktop\heuristica certo\heuristica\util.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1568379015 c:\users\fred\desktop\heuristica certo\heuristica\arquivos.h
+
+1568379015 source:c:\users\fred\desktop\heuristica certo\heuristica\construcao.cpp
+	<cstdlib>
+	<iostream>
+	<climits>
+	<vector>
+	<algorithm>
+	<random>
+	"Util.h"
+	"Construcao.h"
+
+1568383289 c:\users\fred\desktop\heuristica certo\heuristica\construcao.h
+	<vector>
+	<chrono>
+
+1576759094 source:c:\users\fred\desktop\heuristica certo\heuristica\descida.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<random>
+	<utility>
+	"Arquivos.h"
+	"Construcao.h"
+	"Descida.h"
+	"Util.h"
+
+1568383219 c:\users\fred\desktop\heuristica certo\heuristica\descida.h
+	<vector>
+	<chrono>
+
+1576755990 source:c:\users\fred\desktop\heuristica certo\heuristica\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<climits>
+	<ctime>
+	<iomanip>
+	<vector>
+	"Util.h"
+	"Arquivos.h"
+	"Construcao.h"
+	"Menus.h"
+	"Descida.h"
+	"MS.h"
+	"RCL.h"
+	"ILS.h"
+	"SA.h"
+	"AG.h"
+
+1568379015 c:\users\fred\desktop\heuristica certo\heuristica\menus.h
+
+1568379015 c:\users\fred\desktop\heuristica certo\heuristica\ms.h
+	<vector>
+
+1573235018 source:c:\users\fred\desktop\heuristica certo\heuristica\menus.cpp
+	<cstdio>
+	<iostream>
+	"Menus.h"
+
+1568385587 source:c:\users\fred\desktop\heuristica certo\heuristica\ms.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Descida.h"
+	"Util.h"
+	"Construcao.h"
+	"Arquivos.h"
+
+1572024334 source:c:\users\fred\desktop\heuristica certo\heuristica\util.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<cmath>
+	<climits>
+	<ctime>
+	"Util.h"
+
+1568991689 source:c:\users\fred\desktop\heuristica certo\heuristica\ils.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Descida.h"
+	"Util.h"
+	"Construcao.h"
+	"Arquivos.h"
+
+1568985621 c:\users\fred\desktop\heuristica certo\heuristica\ils.h
+	<vector>
+
+1536934862 source:c:\users\fred\desktop\heuristica certo\heuristica\sa.cpp
+	<cmath>
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"SA.h"
+	"Util.h"
+	"Descida.h"
+
+1536931506 c:\users\fred\desktop\heuristica certo\heuristica\sa.h
+
+1572025234 source:c:\users\fred\desktop\heuristica certo\heuristica\ag.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	"Util.h"
+	"AG.h"
+	"Construcao.h"
+	"Descida.h"
+
+1572021835 c:\users\fred\desktop\heuristica certo\heuristica\ag.h
+	<vector>
+
+1573231891 c:\users\fred\desktop\heuristica certo\heuristica\rcl.h
+	<vector>
+
+1540528120 source:c:\users\fred\desktop\heuristica certo\heuristica\grasp.cpp
+	"Util.h"
+	"Construcao.h"
+	"Descida.h"
+	"GRASP.h"
+
+1540527998 c:\users\fred\desktop\heuristica certo\heuristica\grasp.h
+
+1538592532 source:c:\users\fred\desktop\heuristica certo\heuristica\bt.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<limits.h>
+	"Util.h"
+	"Arquivos.h"
+	"Descida.h"
+
